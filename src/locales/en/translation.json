@@ -1,0 +1,13 @@
+{
+  "hero": {
+    "title": "Live the Wine",
+    "description": "We tokenize wines with blockchain technology so you can invest, collect, and enjoy."
+  },
+  "navbar": {
+    "wines": "Wines",
+    "wineries": "Wineries",
+    "howItWorks": "How it works",
+    "contact": "Contact",
+    "faq": "FAQ"
+  }
+}

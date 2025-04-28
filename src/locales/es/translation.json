@@ -1,0 +1,13 @@
+{
+  "hero": {
+    "title": "Viví el Vino",
+    "description": "Tokenizamos vinos con tecnología blockchain para que puedas invertir, coleccionar y disfrutar."
+  },
+  "navbar": {
+    "wines": "Vinos",
+    "wineries": "Bodegas",
+    "howItWorks": "Cómo funciona",
+    "contact": "Contacto",
+    "faq": "FAQ"
+  }
+}

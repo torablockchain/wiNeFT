@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tipografías globales */
+body {
+  @apply font-sans text-white bg-black;
+}
+
+/* Clases personalizadas */
+.heading-hero {
+  @apply text-5xl md:text-6xl font-sora font-bold leading-tight drop-shadow-md;
+}
+
+.subheading {
+  @apply text-lg md:text-xl font-light font-sans;
+}
+
+.trusted-swiper .swiper-wrapper {
+  transition-timing-function: linear !important;
+}
+ 
